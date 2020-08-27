@@ -8,5 +8,6 @@ namespace LargeTest
 {
     class Class2
     {
+        public int s = 0;
     }
 }
